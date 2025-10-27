@@ -1,3 +1,3 @@
-#Sobre
+# Sobre
 
-- Desafio de paǵina com contador de caracteres feito com HTML, CSS e JS.
+- Desafio de página com contador de caracteres feito com HTML, CSS e JS.
